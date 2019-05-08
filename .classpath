@@ -2,5 +2,35 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/DevilR/Documents/GitHub/Carguru2019/Jars/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DevilR/Documents/GitHub/Carguru2019/Jars/client-combined-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DevilR/Documents/GitHub/Carguru2019/Jars/client-combined-3.8.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DevilR/Documents/GitHub/Carguru2019/Jars/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DevilR/Documents/GitHub/Carguru2019/Jars/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DevilR/Documents/GitHub/Carguru2019/Jars/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DevilR/Documents/GitHub/Carguru2019/Jars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DevilR/Documents/GitHub/Carguru2019/Jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DevilR/Documents/GitHub/Carguru2019/Jars/dom4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DevilR/Documents/GitHub/Carguru2019/Jars/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DevilR/Documents/GitHub/Carguru2019/Jars/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DevilR/Documents/GitHub/Carguru2019/Jars/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DevilR/Documents/GitHub/Carguru2019/Jars/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DevilR/Documents/GitHub/Carguru2019/Jars/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DevilR/Documents/GitHub/Carguru2019/Jars/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DevilR/Documents/GitHub/Carguru2019/Jars/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DevilR/Documents/GitHub/Carguru2019/Jars/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DevilR/Documents/GitHub/Carguru2019/Jars/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DevilR/Documents/GitHub/Carguru2019/Jars/okhttp-3.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DevilR/Documents/GitHub/Carguru2019/Jars/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DevilR/Documents/GitHub/Carguru2019/Jars/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DevilR/Documents/GitHub/Carguru2019/Jars/okio-1.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DevilR/Documents/GitHub/Carguru2019/Jars/poi-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DevilR/Documents/GitHub/Carguru2019/Jars/poi-ooxml-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DevilR/Documents/GitHub/Carguru2019/Jars/poi-ooxml-schemas-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DevilR/Documents/GitHub/Carguru2019/Jars/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DevilR/Documents/GitHub/Carguru2019/Jars/SaxonLiaison.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DevilR/Documents/GitHub/Carguru2019/Jars/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DevilR/Documents/GitHub/Carguru2019/Jars/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
